@@ -4,7 +4,7 @@ This is the resource repository for Warcbase, [which you can find here](https://
 
 ## Getting Started
 
-Follow the instructions on the [main Warcbase page](https://github.com/lintool/warcbase), and consult the [detailed documentation available on the repository's wiki](https://github.com/lintool/warcbase/wiki).
+Follow the instructions on the [main Warcbase page](https://github.com/lintool/warcbase), and consult the [detailed documentation available here](http://lintool.github.io/warcbase-docs/).
 
 This repository contains supporting resources that you need for some of the commands, such as:
 - Named Entity Recognition;
