@@ -4,13 +4,13 @@ This is the resource repository for Warcbase, [which you can find here](https://
 
 ## Getting Started
 
-Follow the instructions on the [main Warcbase page](https://github.com/lintool/warcbase), and consult the [detailed documentation available on the repository's wiki](https://github.com/lintool/warcbase/wiki).
+Follow the instructions on the [main Warcbase page](https://github.com/lintool/warcbase), and consult the [detailed documentation available here](http://lintool.github.io/warcbase-docs/).
 
 This repository contains supporting resources that you need for some of the commands, such as:
 - Named Entity Recognition;
-- More (TBA)
+- Sample WARC and ARC files for protoyping
 
 ## Contents
 
 - `/ner/english.all.3class.distsim.crf.ser.gz`: This classifier is trained on English-language locations, organizations, and people. It is a central part of the [Spark: Named Entity Recognition](https://github.com/lintool/warcbase/wiki/Spark:-Named-Entity-Recognition) recipie.
-- Sample Data: TBA
+- Sample Data: In the `/sample-data/` directory, we have one ARC and one WARC file from the University of Toronto's Canadian Political Parties collection. They're indicative of the kind of data you'll find within the Internet Archive or Archive-It..
