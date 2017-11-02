@@ -14,3 +14,7 @@ This repository contains supporting resources that you need for some of the comm
 
 - `/ner/english.all.3class.distsim.crf.ser.gz`: This classifier is trained on English-language locations, organizations, and people. It is a central part of the [Spark: Named Entity Recognition](http://docs.archivesunleashed.io/Spark-Named-Entity-Recognition/) recipie.
 - Sample Data: In the `/sample-data/` directory, we have one ARC and one WARC file from the University of Toronto's Canadian Political Parties collection. They're indicative of the kind of data you'll find within the Internet Archive or Archive-It.
+
+## Acknowledgments
+
+This work is primarily supported by the [Andrew W. Mellon Foundation](https://uwaterloo.ca/arts/news/multidisciplinary-project-will-help-historians-unlock). Additional funding for the Toolkit has come from the U.S. National Science Foundation, Columbia University Library's Mellon-funded Web Archiving Incentive Award, the Natural Sciences and Engineering Research Council of Canada, the Social Sciences and Humanities Research Council of Canada, and the Ontario Ministry of Research and Innovation's Early Researcher Award program. Any opinions, findings, and conclusions or recommendations expressed are those of the researchers and do not necessarily reflect the views of the sponsors.
